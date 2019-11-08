@@ -4,8 +4,8 @@ Modelo sencillo de PlantaBot con Arduino
 PlantBot es un robot que nos permitirá cuidar de nuestra planta pudiendo medir la temperatura y la humedad. La información de la humedad y temperatura aparecerá en una pantalla y así sabremos si nuestra planta necesita más agua o necesitamos ponerla en un lugar más frio o más caliente.
 
 <p align="center">
-	<img  src="src/PlantBot.png" height="400"/>
-	<img  src="src/PlantBot_holes.png" height="400"/>
+	<img  src="src/PlantBot.png" height="300"/>
+	<img  src="src/PlantBot_holes.png" height="300"/>
 </p>
 
 **IMPORTANTE**: Recomendamos introducir la planta en una maceta para evitar acumular el agua en la parte de abajo. Una buena práctica es usar un tubo para drenar el agua que sobra por el agujero en la parte trasera del modelo.
@@ -30,7 +30,7 @@ Deberemos conectar los siguientes elementos
 - El display numérico.
 
 <p align="center">
-	<img  src="src/Display_PlantBot.jpg" height="600"/>
+	<img  src="src/Display_PlantBot.jpg" height="300"/>
 </p>
 
 # Programación
