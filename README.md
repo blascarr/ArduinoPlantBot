@@ -30,7 +30,7 @@ Deberemos conectar los siguientes elementos
 - El display numérico.
 
 <p align="center">
-	<img  src="src/Display_PlantBot.png" height="600"/>
+	<img  src="src/Display_PlantBot.jpg" height="600"/>
 </p>
 
 # Programación
